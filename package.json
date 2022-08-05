@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "cz-customizable": "^6.9.1",
     "vue": "^3.0.0"
   },
   "devDependencies": {
@@ -21,6 +20,7 @@
     "@vue/compiler-sfc": "^3.0.0",
     "babel-eslint": "^10.1.0",
     "commitizen": "^4.2.5",
+    "cz-customizable": "^6.9.1",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^7.0.0",
     "husky": "^4.3.8"
